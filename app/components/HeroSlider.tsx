@@ -5,20 +5,20 @@ import { ChevronLeft, ChevronRight, X } from 'lucide-react'
 
 const slides = [
   {
-    bg: 'url("/Slika1.jpg") center/cover no-repeat',
-    img: '/Slika1.jpg',
+    bg: 'url("/Slide1.jpg") center/cover no-repeat',
+    img: '/Slide1.jpg',
     title: 'Šlep Služba',
     sub: 'Brza i pouzdana pomoć na putu — dostupni 24/7',
   },
   {
-    bg: 'url("/Slika2.jpg") center/cover no-repeat',
-    img: '/Slika2.jpg',
+    bg: 'url("/Slide2.jpg") center/cover no-repeat',
+    img: '/Slide2.jpg',
     title: 'Kran i Transport',
     sub: 'Dizalica do 8t · Boat transport · Vangabaritni tereti',
   },
   {
-    bg: 'url("/Slika3.jpg") center/cover no-repeat',
-    img: '/Slika3.jpg',
+    bg: 'url("/Slide3.jpg") center/cover no-repeat',
+    img: '/Slide3.jpg',
     title: 'Brza pomoć 24/7',
     sub: 'Dostupni u svakom trenutku — danju i noću',
   },
