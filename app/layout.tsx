@@ -9,9 +9,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'ŠlepajMe — Direktorijum šlep službi Crne Gore',
+  title: 'Šlep služba i kran',
   description:
-    'Pronađite provjerene šlep i auto-pomoć servise u Crnoj Gori. Direktan kontakt bez posrednika. Dostupno 24/7.',
+    'Dostupni 24/7.',
   keywords: ['šlep', 'šlep služba', 'auto pomoć', 'Crna Gora', 'vučenje vozila', 'šlepanje'],
   authors: [{ name: 'ŠlepajMe' }],
 }
