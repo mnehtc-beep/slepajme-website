@@ -11,16 +11,16 @@ const slides = [
     sub: 'Brza i pouzdana pomoć na putu — dostupni 24/7',
   },
   {
-    bg: 'url("/Slika3.jpg") center/cover no-repeat',
-    img: '/Slika3.jpg',
-    title: 'Brza pomoć 24/7',
-    sub: 'Dostupni u svakom trenutku — danju i noću',
-  },
-  {
     bg: 'url("/Slika2.jpg") center/cover no-repeat',
     img: '/Slika2.jpg',
     title: 'Kran i Transport',
     sub: 'Dizalica do 8t · Boat transport · Vangabaritni tereti',
+  },
+  {
+    bg: 'url("/Slika3.jpg") center/cover no-repeat',
+    img: '/Slika3.jpg',
+    title: 'Brza pomoć 24/7',
+    sub: 'Dostupni u svakom trenutku — danju i noću',
   },
 ]
 
